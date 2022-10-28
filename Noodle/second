@@ -1,0 +1,127 @@
+<html>
+    <style>
+        a {
+            text-decoration:none;    ＃隱藏超連結底線
+        }
+        </style>
+<body background="背景圖片的網址"></body>
+<style>
+    article {display:block; float: right; width: 77%; height:90%; background: rgb(220, 220, 219); padding:5px}
+</style>
+
+<style>
+    
+    header, footer {display:block; clear:both; padding: 5px; text-align:left;} 
+    nav {display:block; float:left; width: 20%; height:50%; padding:5px}
+    article {display:block; float: right; width: 84%; height:100%; background: rgb(229, 241, 255); padding:5px}
+    </style>
+    <header>
+    <meta charset="utf-8"> 
+   <font size="7">老闆～來碗麵！</font>
+</header>
+    <article>
+        <p style="padding:0cm 0.5cm ;">  </p>
+            <pre><h1> 原料 -> 攪和 -> 壓延 -> 複合 -> 醒麵 -> 壓延-> 切條 -> 麵條
+    
+ 原料：印象中外觀有白或黃、口感Ｑ彈或扎實、風味帶有特殊鹼味等，主要差別在使用的原料有所不同。麵條製作除了基本的麵粉
+ （通常為中筋麵粉，也可用高筋麵粉或專用粉製作特色麵條）、水之外，也會添加鹽或是鹼，另外也常見會添加磷酸鹽類、膠類或
+ 雞蛋、修飾澱粉等。
+                
+ 攪拌：氧化作用下，半胱胺酸彼此間可以形成雙硫鍵，使得彼此之間的結構更緊密連結。也有研究指出，醇溶蛋白也可經由兩個酪
+ 胺酸連結，成為雙酪胺酸鏈，也是促使麵筋形成的鍵結之一。
+                
+ 壓延、複合、醒麵：讓麵團組織更細緻，表面更光滑。進行切條之前的最後一次壓延，則決定了麵條的厚度。 攪拌形成麵筋之後因
+ 為彈性強，過程中必須放置一段時間讓麵團鬆弛，此步驟也稱作醒麵。除能讓麵團水分分佈更均勻之外，也能讓麵筋稍微軟化，在後
+ 續壓延等步驟會更好操作，通常會需要約10分鐘以上的時間進行醒麵。
+                
+ 切條：￼形成大眾常看見的麵條形狀
+            </h1>  </pre></p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Qe-4rXgzehU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        </article>
+<style>
+    .btn {
+        margin-right:20px;width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">主 頁</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">製 作</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">歷 史</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">種 類</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">聯 繫 方 式</div></form>
+</a>
+<style>
+    h1{text-align: content;}
+    p{background-color: rgb(223, 246, 255);}
+    </style>
+
+</html>
+
