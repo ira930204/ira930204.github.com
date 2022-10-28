@@ -1,0 +1,105 @@
+<html>
+    <style>
+        a {
+            text-decoration:none;    ＃隱藏超連結底線
+        }
+        </style>
+<body background="背景圖片的網址"></body>
+<header>
+    <meta charset="utf-8"> 
+   <font size="7">老闆～來碗麵！</font>
+</header>
+<style>
+    
+    header, footer {display:block; clear:both; padding: 5px; text-align:left} 
+    nav {display:block; float:left; width: 20%; height:50%; background: rgb(86, 99, 120); padding:5px}
+    article {display:block; float: right; width: 84%; height:100%; background: rgb(229, 241, 255); padding:5px}
+    </style>
+  <article>
+    <p style="padding:0cm 0.5cm ;">  </p>
+        <pre><h1>大家吃麵的過程中有沒有想過碗中的麵究竟從何來？世界上又有多少種的麵呢？偷偷告訴大家～光是市上存在的義大利麵就有至少
+600種之多！！！！是不是對麵條有更多的好奇了呢！ 讓我們來探索麵的世界吧～
+        </h1>  </pre>
+    </p>
+    </article>
+
+<style>
+    .btn {
+        margin-right:20px;width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">主 頁</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">製 作</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">歷 史</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">種 類</div></form>
+</a>
+
+<style>
+    .btn {
+      width:180px;line-height:40px; font-size:20px;color:rgb(213, 232, 255);text-align:center;background-color:rgb(30, 111, 210);border:5px solid rgb(19, 25, 139);border-radius:15px;cursor:pointer;
+    }
+    .btn:hover {
+     transform: scale(1.05);
+     }
+  .btn:active {
+    transform: scale(1);
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
+   }
+  </style>
+  <form><a href="https://www.delftstack.com/zh-tw/howto/html/html-button-link/">
+    <div class="btn">聯 繫 方 式</div></form>
+</a>
+
