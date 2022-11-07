@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <tittle>影音多媒體</tittle>
+        </head>
+        <body>
+            <video src ="file:///Users/luoyuqing/Desktop/media/1bird.ogv " controls></video>
+        </body>
+</html>
